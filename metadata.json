@@ -1,0 +1,6 @@
+{
+  "name": "Orato Lab",
+  "description": "Local voice-to-translate model benchmarking playground for comparing latency, token breakdown, cost, and meaning preview accuracy across Gemini and ASR pipelines.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
